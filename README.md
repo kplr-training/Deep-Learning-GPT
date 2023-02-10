@@ -1,6 +1,6 @@
 #  Deep-Learning-GPT
 
-Ressource :
+Ressources :
 
 - [NLP basics](https://github.com/dair-ai/nlp_fundamentals/blob/master/1_nlp_basics_tokenization_segmentation.ipynb) 
 - [Calculate dot product attention](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4_W2_lecture_notebook_Attention.ipynb)
